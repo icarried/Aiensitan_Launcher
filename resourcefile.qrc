@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/chessimg">
+        <file>img/0.jpg</file>
+        <file>img/1.jpg</file>
+        <file>img/-1.jpg</file>
+        <file>img/2.jpg</file>
+        <file>img/-2.jpg</file>
+        <file>img/3.jpg</file>
+        <file>img/-3.jpg</file>
+        <file>img/4.jpg</file>
+        <file>img/-4.jpg</file>
+        <file>img/5.jpg</file>
+        <file>img/-5.jpg</file>
+        <file>img/6.jpg</file>
+        <file>img/-6.jpg</file>
+        <file>img/f.jpg</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>img/background/background_mainwindow.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>config/config_winrate.ini</file>
+    </qresource>
+</RCC>
