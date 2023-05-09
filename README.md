@@ -9,7 +9,10 @@
 
 使用介绍：
 
-使用三个线程进行计算，包括主进程，计算时主进程的界面也会暂停运作。
+克隆本仓库
+```markdown
+git clone https://github.com/icarried/Aiensitan_Launcher.git
+```
 
 使用结合残局数据库的搜索算法，当前版本使用残局数据库为（0001110001110），即搜索到双方均剩编号余123的棋或更少时即触发直接获取准确胜率（即便如此，该小型残局库仍然占据了约2.3GB），release不支持2GB以上文件，因此请通过百度云盘下载链接：https://pan.baidu.com/s/1ZeUfGD7K8aFp--UTlSRdmA 提取码：i88a 
 
@@ -32,6 +35,7 @@
 ![image](https://user-images.githubusercontent.com/54706854/229298373-77bea016-bb1f-4b30-bcc0-cbf76c073d25.png)
 
 在比赛模式和测试模式下，AI行棋须点击“AI移动”，AI会依照当前已生成的随机数计算移动；试玩模式下AI会自动行动。
+使用三个线程进行计算，包括主进程，计算时主进程的界面也会暂停运作。
 
 ![image](https://user-images.githubusercontent.com/54706854/229298642-22dd97c2-6e8c-4c97-92ee-2a6c035bb7bf.png)
 
