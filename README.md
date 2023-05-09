@@ -45,7 +45,7 @@ git clone https://github.com/icarried/Aiensitan_Launcher.git
 
 对局结束后点击“输出棋谱”并输入信息后可以把对局过程的棋谱输出（编码问题未解决），比赛模式下一方胜利达成时会自动触发输出棋谱。
 
-对局完成后再次点击gmae->newgame选项开启新对局。
+对局完成后再次点击game->newgame选项开启新对局。
 
 AI搜索层数由当前棋子数动态调整。
 
