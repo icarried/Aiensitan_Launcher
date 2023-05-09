@@ -1,4 +1,3 @@
-//该程序由 哈尔滨理工大学 陈泳吉 独立制作
 #include "mainwindow.h"
 
 #include <QApplication>

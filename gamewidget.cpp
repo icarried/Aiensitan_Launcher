@@ -1,4 +1,3 @@
-//该程序由 哈尔滨理工大学测控18-6陈泳吉 独立制作
 #include "gamewidget.h"
 
 #include <QString>
